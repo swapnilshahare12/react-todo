@@ -1,0 +1,24 @@
+#deleteicon{
+  height: 30px;
+  width: 30px;
+}
+#pencilicon{
+  height: 30px;
+  width: 30px;
+}
+
+button{
+  margin-right: 30px;
+  background-color: yellow;
+  cursor: pointer;
+}
+.style{
+  border-radius: 10px;
+  padding: 3px 40px;
+}
+
+li{
+  font-size: 40px;
+  list-style:none;
+  font-weight: bolder;
+}
